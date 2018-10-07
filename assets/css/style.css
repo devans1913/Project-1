@@ -1,0 +1,86 @@
+#submitSection {
+    margin-right: 110px;
+    margin-bottom:20px;
+    background: #E9ECEF;
+    padding: 20px;
+    max-height: 670px;
+}
+
+#pictureSection {
+/* height: 100%;
+    padding: 10px;
+    width: 950px; */
+    background: #E9ECEF;
+    padding: 20px;
+}
+
+#header {
+    margin: 20px;
+    width: 97.5%;
+}
+
+.card {
+    width: 320px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-img-top-fluid {
+    height: 200px;
+}
+
+body {
+    background-image: url("../images/trees.jpg");
+    background-size: 100%;
+}
+/* 
+.container-fluid {
+    padding: 0;
+    width: 100%
+} */
+
+/* .fullWidth {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: initial;
+} */
+
+.card-body {
+    padding: 0;
+}
+
+#uploader {
+    width: 100%;
+}
+
+.modalImage {
+    width: 100%;
+}
+
+@viewport {
+    width: device-width;
+    zoom: 1.0;
+ }
+ #full{
+     width:100%;
+     padding: 10px;
+ }
+
+ #locWeather {
+    width: 100%;        
+    padding: 10px;
+    margin: 0 auto;
+    float: none;
+    margin-top: 20px;
+}
+
+#shift {
+    margin-left: 20px;
+    margin-right: 5px
+}
+
+.card-body {
+    width: 100%
+}
