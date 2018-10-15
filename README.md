@@ -26,13 +26,13 @@ We wanted to create a personal drone portfolio/platform for drone enthusiast to 
 * Live Streaming
 
 ## Creators
+_This group project is part of the Full-Stack Web Development program at University of Kansas_
 
 * Addison Murry
 * Austin Katzer
 * Dwynn Evans
 * Cody Hink
 
-_This group project is part of the Full-Stack Web Development program at University of Kansas_
 
 
 
